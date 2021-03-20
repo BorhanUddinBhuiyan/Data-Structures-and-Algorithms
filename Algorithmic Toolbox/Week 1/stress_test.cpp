@@ -4,7 +4,7 @@
 #include<vector>
 
 using  namespace std;
-// naive alogrithm for max pairwise product//
+// naive algorithm for max pairwise product//
 long long MaxProduct(const vector<int>&num){
   long long result=0;
   int n=num.size();
