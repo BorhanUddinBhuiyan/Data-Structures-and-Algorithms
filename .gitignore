@@ -1,2 +1,5 @@
 
 vendor/
+build/
+.vscode/
+*.exe
